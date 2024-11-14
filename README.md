@@ -4,6 +4,8 @@ This was converted with the software available from https://github.com/litalbark
 
 Available datasets:
 
+Download these from the [releases](https://github.com/pachadotdev/redatam-microdata/releases/tag/2.0.2) page.
+
 - Argentina: 1991, 2001, 2010
 - Bolivia: 2001, 2012
 - Chile: 2017
