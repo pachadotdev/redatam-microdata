@@ -1,6 +1,6 @@
-The publicly available REDATAM microdata is also available here in R format.
+REDATAM microdata converted to R and CSV formats. 
 
-This was converted with the software available from https://github.com/litalbarkai/open-redatam/.
+This was converted with the software available from https://github.com/pachadotdev/open-redatam/.
 
 Available datasets:
 
@@ -16,4 +16,4 @@ Download these from the [releases](https://github.com/pachadotdev/redatam-microd
 - Mexico: 2000, 2010, 2020
 - Myanmar: 2014
  
-These datasets contain changes with respect to the originals and are available in RDS (R) and zipped CSV (multi-language). All the text variables were converted to UTF-8 and we provide the variables codification as metadata.
+All the text variables were converted to UTF-8 and we provide the variables codification as metadata.
