@@ -14,7 +14,6 @@ Download these from the [releases](https://github.com/pachadotdev/redatam-microd
 - Guatemala: 2018
 - Peru: 2007, 2017
 - Mexico: 2000, 2010, 2020
-- Myanmar: 2014
  
 All the text variables were converted to UTF-8 and we provide the variables codification as metadata.
 
